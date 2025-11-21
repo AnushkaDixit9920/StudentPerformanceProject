@@ -1,12 +1,16 @@
 📘 Student Performance Prediction
 --
+
 A machine learning web application that predicts whether a student will pass or fail, based on demographic and academic features.
 The project includes full model training, evaluation, and deployment using Flask and Render.
+
 --
 
 🚀 Live Web App
 --
+
 🔗 https://studentperformanceproject-2.onrender.com/
+
 --
 🧠 Model Used
 --
@@ -18,6 +22,7 @@ The deployed model is:
 
 2)Logistic Regression achieved the highest balanced performance and was saved as:
   student_model.pkl
+  
 --
 📊 Features Considered
 --
@@ -30,6 +35,7 @@ The deployed model is:
 4)Lunch type
 
 5)Test preparation course
+
 --
 🔧 Tech Stack
 --
@@ -44,6 +50,7 @@ The deployed model is:
 5)HTML / CSS
 
 6)Render (Deployment)
+
 --
 🛠️ How the Model Was Built
 --
@@ -58,6 +65,7 @@ The deployed model is:
 5)Saving the model pipeline as student_model.pkl
 
 6)Deploying using Flask + Gunicorn on Render
+
 --
 ## 📂 Project Structure
 
@@ -71,7 +79,6 @@ The deployed model is:
 └── Model_Training.ipynb
 ```
 
---
 
 📝 Usage
 --
