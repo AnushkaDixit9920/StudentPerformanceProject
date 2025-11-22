@@ -25,7 +25,6 @@ The deployed model is:
   
 --
 📊 Dataset Description
-
 --
 
 This project uses the Students Performance in Exams dataset from Kaggle, which contains demographic, socioeconomic, and academic information about students.
