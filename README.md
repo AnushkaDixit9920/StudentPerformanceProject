@@ -12,6 +12,22 @@ The project includes full model training, evaluation, and deployment using Flask
 🔗 https://studentperformanceproject-2.onrender.com/
 
 --
+📊 Model Comparison
+--
+
+Multiple machine learning models were trained and evaluated using accuracy, precision, recall, and F1-score. Below is the comparison table summarizing their performance:
+
+| Model                   | Accuracy | Precision | Recall | F1-Score |
+| ----------------------- | -------- | --------- | ------ | -------- |
+| **Logistic Regression** | **0.80** | 0.79      | 0.80   | 0.79     |
+| Random Forest           | 0.78     | 0.76      | 0.77   | 0.76     |
+| Decision Tree           | 0.72     | 0.70      | 0.71   | 0.70     |
+| K-Nearest Neighbors     | 0.74     | 0.73      | 0.74   | 0.73     |
+| AdaBoost                | 0.76     | 0.75      | 0.75   | 0.75     |
+| XGBoost                 | 0.77     | 0.76      | 0.77   | 0.76     |
+
+
+--
 🧠 Model Used
 --
 The deployed model is:
