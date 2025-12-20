@@ -22,12 +22,15 @@ The objective is to understand how non-academic factors influence student outcom
 🧩 Dataset
 --
 Source:
+
 🔗 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
 
 Description:
+
 The dataset contains 1,000 student records, where each record represents an individual student’s background and academic performance.
 
 Features:
+
 1)Gender – Male / Female
 
 2)Race/Ethnicity – Group A to E
@@ -47,6 +50,7 @@ Features:
 🎯 Target Variable
 --
 Pass / Fail Classification
+
 1)Average of math, reading, and writing scores calculated
 2)Average ≥ 60% → Pass
 3)Average < 60% → Fail
@@ -125,7 +129,6 @@ Multiple machine learning models were trained and compared:
 🧠 Final Model Selected
 --
 ⭐ Logistic Regression
---
 
 1)Achieved the best balanced performance
 
