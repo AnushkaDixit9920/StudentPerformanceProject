@@ -5,7 +5,7 @@
 This project focuses on predicting whether a student will pass or fail based on demographic, socioeconomic, and academic attributes such as gender, parental education, lunch type, test preparation, and exam scores.
 The objective is to understand how non-academic factors influence student outcomes and to build a robust machine learning model that can predict performance accurately. The project also includes deployment as a live web application, enabling real-time predictions.
 
---
+
 🎯 Objectives
 --
 1)To analyze how demographic and socioeconomic factors affect student performance
