@@ -18,7 +18,7 @@ The objective is to understand how non-academic factors influence student outcom
 
 5)To demonstrate an end-to-end ML workflow: data → model → deployment
 
---
+
 🧩 Dataset
 --
 Source:
@@ -47,7 +47,7 @@ Features:
 
 8)Writing Score (0–100)
 
---
+
 🎯 Target Variable
 --
 Pass / Fail Classification
@@ -58,7 +58,7 @@ Pass / Fail Classification
 
 3)Average < 60% → Fail
 
---
+
 ⚙️ Methodology
 --
 🧹 Data Cleaning & Preprocessing
@@ -71,17 +71,7 @@ Pass / Fail Classification
 
 4)Created a new binary target variable (Pass / Fail)
 
---
-📊 Exploratory Data Analysis (EDA)
---
-1)Analyzed score distributions across demographic groups
 
-2)Studied the effect of parental education and lunch type
-
-3)Observed performance gaps based on socioeconomic factors
-
-4)Identified trends linking test preparation to higher scores
---
 📊 Exploratory Data Analysis (EDA)
 --
 1)Analyzed score distributions across demographic groups
@@ -92,7 +82,18 @@ Pass / Fail Classification
 
 4)Identified trends linking test preparation to higher scores
 
+
+📊 Exploratory Data Analysis (EDA)
 --
+1)Analyzed score distributions across demographic groups
+
+2)Studied the effect of parental education and lunch type
+
+3)Observed performance gaps based on socioeconomic factors
+
+4)Identified trends linking test preparation to higher scores
+
+
 ⚒️ Feature Engineering
 --
 1)Encoded categorical features
@@ -101,7 +102,7 @@ Pass / Fail Classification
 
 3)Built a complete machine learning pipeline
 
---
+
 🤖 Model Training
 --
 Multiple machine learning models were trained and compared:
@@ -118,7 +119,7 @@ Multiple machine learning models were trained and compared:
 
 6)XGBoost
 
---
+
 📈 Model Evaluation & Comparison
 --
 | Model               | Accuracy | Precision | Recall | F1-Score |
@@ -130,7 +131,7 @@ Multiple machine learning models were trained and compared:
 | AdaBoost            | 0.76     | 0.75      | 0.75   | 0.75     |
 | XGBoost             | 0.77     | 0.76      | 0.77   | 0.76     |
 
---
+
 🧠 Final Model Selected
 --
 ⭐ Logistic Regression
@@ -143,7 +144,7 @@ Multiple machine learning models were trained and compared:
 
 4)Used in the deployed web application
 
---
+
 🌐 Live Web Application
 --
 🔗 Live App:
@@ -158,7 +159,7 @@ https://studentperformanceproject-2.onrender.com/
 
 3)Get real-time prediction: Pass or Fail
 
---
+
 💡 Key Insights
 --
 1)Students who completed test preparation courses perform better
@@ -169,7 +170,7 @@ https://studentperformanceproject-2.onrender.com/
 
 4)Academic scores remain the strongest predictors, but socioeconomic factors add meaningful context
 
---
+
 🧰 Tech Stack
 --
 1)Language: Python
@@ -184,7 +185,7 @@ https://studentperformanceproject-2.onrender.com/
 
 6)Version Control: Git & GitHub
 
---
+
 📂 Project Structure
 --
 
@@ -202,7 +203,7 @@ https://studentperformanceproject-2.onrender.com/
 
 └── Model_Training.ipynb
 
---
+
 🚀 Future Scope
 --
 
@@ -214,7 +215,7 @@ https://studentperformanceproject-2.onrender.com/
 
 4)Experiment with deep learning models
 
---
+
 👩‍💻 Author
 --
 
