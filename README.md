@@ -189,11 +189,17 @@ https://studentperformanceproject-2.onrender.com/
 --
 
 ├── app.py
+
 ├── student_model.pkl
+
 ├── requirements.txt
+
 ├── templates/
+
 │   └── index.html
+
 ├── StudentsPerformance.csv
+
 └── Model_Training.ipynb
 
 --
